@@ -1,6 +1,7 @@
 ## Learning Material
 
 * [Khan Academy](https://www.khanacademy.org/science/physics)
+* [Crash Course](https://www.youtube.com/watch?v=ZM8ECpBuQYE&list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV)
 
 ## Distributed Practice
 
