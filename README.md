@@ -4,7 +4,7 @@ My name is Sam Meech-Ward and I am using this repo to organize and keep track of
 
 My goal is to learn the following subjects:
 
-- [High School Physics](https://github.com/meech-ward/Learning-Projects/wiki/High-School-Physics) (Started on 2017-02-06)
+- [High School Physics](https://github.com/meech-ward/Learning-Projects/blob/master/Courses/HighSchoolPhysics/Week1.md) (Started on 2017-02-06)
 - High School Chemistry
 - Khan Academy Electrical Engineering
 
