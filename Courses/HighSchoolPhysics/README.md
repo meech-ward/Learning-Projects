@@ -19,10 +19,10 @@ As I just mentioned, I don't know much about physics or any science other than c
 ## How?
 
 * Watch videos and take notes. 
-* After each video, answer questions from an ap physics question book to feel more comfortable.
+* After each video, answer questions from an ap physics question book, Khan Academy, or Varsity Tutors to feel more comfortable.
 * Use [distributed practice](#distributed-practice).
 * After i've completed a [Khan Academy](https://www.khanacademy.org/science/physics) section, take a quiz using [varsitytutors.com](https://www.varsitytutors.com/high_school_physics-practice-tests).
-* After each week, quiz myself using my own 'question book method' material.
+* ~~After each week, quiz myself using my own 'question book method' material.~~
 * At the end of the course, take a final exam using [varsitytutors.com](https://www.varsitytutors.com/high_school_physics-practice-tests).
 
 ## Learning Resources
@@ -71,7 +71,8 @@ Before I start a new topic, I will create a card for it in the [projects](https:
 
 * [One Dimensional Motion](https://github.com/meech-ward/Learning-Projects/issues/1)
 * [Two Dimensional Motion](https://github.com/meech-ward/Learning-Projects/issues/2)
-* Forces and Newton's laws of motion
+* [Forces and Newton's laws of motion](https://github.com/meech-ward/Learning-Projects/issues/3)
+* Centripetal force and gravitation
 * ...
 
 ## Weeks
