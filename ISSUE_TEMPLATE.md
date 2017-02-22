@@ -5,7 +5,7 @@
 
 ## Distributed Practice
 
-* [Varsity Tutors](http://www.varsitytutors.com/ap_physics_1-help/motion-in-two-dimensions)
+* [Varsity Tutors](http://www.varsitytutors.com/ap_physics_1-help)
 
 Distributed Practice questions answered correctly:
 
@@ -17,4 +17,4 @@ Distributed Practice questions answered correctly:
 
 ## Quiz
 
-- [ ]   [Varsity Tutors](http://www.varsitytutors.com/ap_physics_1-help/motion-in-two-dimensions)
+- [ ]   [Varsity Tutors](https://www.varsitytutors.com/high_school_physics-practice-tests)
