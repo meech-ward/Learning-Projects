@@ -72,7 +72,9 @@ Before I start a new topic, I will create a card for it in the [projects](https:
 * [One Dimensional Motion](https://github.com/meech-ward/Learning-Projects/issues/1)
 * [Two Dimensional Motion](https://github.com/meech-ward/Learning-Projects/issues/2)
 * [Forces and Newton's laws of motion](https://github.com/meech-ward/Learning-Projects/issues/3)
-* Centripetal force and gravitation
+* [Centripetal force and gravitation](https://github.com/meech-ward/Learning-Projects/issues/4)
+* [Work and energy](https://github.com/meech-ward/Learning-Projects/issues/5)
+* Impacts and linear momentum
 * ...
 
 ## Weeks
