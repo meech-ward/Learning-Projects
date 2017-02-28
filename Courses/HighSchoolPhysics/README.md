@@ -74,9 +74,18 @@ Before I start a new topic, I will create a card for it in the [projects](https:
 * [Forces and Newton's laws of motion](https://github.com/meech-ward/Learning-Projects/issues/3)
 * [Centripetal force and gravitation](https://github.com/meech-ward/Learning-Projects/issues/4)
 * [Work and energy](https://github.com/meech-ward/Learning-Projects/issues/5)
-* Impacts and linear momentum
+* [Impacts and linear momentum](https://github.com/meech-ward/Learning-Projects/issues/7)
+* [Torque and angular momentum](https://github.com/meech-ward/Learning-Projects/issues/8)
+* [Oscillations and mechanical waves](https://github.com/meech-ward/Learning-Projects/issues/9)
+* [Fluids](https://github.com/meech-ward/Learning-Projects/issues/10)
+* [Thermodynamics](https://github.com/meech-ward/Learning-Projects/issues/11)
+* [Electric charge, field, and potential](https://github.com/meech-ward/Learning-Projects/issues/12)
+* [Circuits](https://github.com/meech-ward/Learning-Projects/issues/13)
+* [Magnetic forces, magnetic fields, and Faraday's law](https://github.com/meech-ward/Learning-Projects/issues/14)
 * ...
 
-## Weeks
+## Weekly Summaries
 
 * [Week1](https://github.com/meech-ward/Learning-Projects/blob/master/Courses/HighSchoolPhysics/Week1.md)
+* [Week2](https://github.com/meech-ward/Learning-Projects/blob/master/Courses/HighSchoolPhysics/Week2.md)
+* [Week3](https://github.com/meech-ward/Learning-Projects/blob/master/Courses/HighSchoolPhysics/Week3.md)
