@@ -82,10 +82,14 @@ Before I start a new topic, I will create a card for it in the [projects](https:
 * [Electric charge, field, and potential](https://github.com/meech-ward/Learning-Projects/issues/12)
 * [Circuits](https://github.com/meech-ward/Learning-Projects/issues/13)
 * [Magnetic forces, magnetic fields, and Faraday's law](https://github.com/meech-ward/Learning-Projects/issues/14)
-* ...
+* [Electromagnetic](https://github.com/meech-ward/Learning-Projects/issues/15)
+* [Geometric Optics](https://github.com/meech-ward/Learning-Projects/issues/16)
+* [Special Relativity](https://github.com/meech-ward/Learning-Projects/issues/17)
+* [Quantum Physics](https://github.com/meech-ward/Learning-Projects/issues/18)
 
 ## Weekly Summaries
 
 * [Week1](https://github.com/meech-ward/Learning-Projects/blob/master/Courses/HighSchoolPhysics/Week1.md)
 * [Week2](https://github.com/meech-ward/Learning-Projects/blob/master/Courses/HighSchoolPhysics/Week2.md)
 * [Week3](https://github.com/meech-ward/Learning-Projects/blob/master/Courses/HighSchoolPhysics/Week3.md)
+* [Week4 & Review](https://github.com/meech-ward/Learning-Projects/blob/master/Courses/HighSchoolPhysics/Week4-Review.md)
