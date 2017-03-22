@@ -94,3 +94,4 @@ Before I start a new topic, I will create a card for it in the [projects](https:
 * [Week3](https://github.com/meech-ward/Learning-Projects/blob/master/Courses/HighSchoolPhysics/Week3.md)
 * [Week4 & Review](https://github.com/meech-ward/Learning-Projects/blob/master/Courses/HighSchoolPhysics/Week4-Review.md)
 * [Week5](https://github.com/meech-ward/Learning-Projects/blob/master/Courses/HighSchoolPhysics/Week5.md)
+* [Week6](https://github.com/meech-ward/Learning-Projects/blob/master/Courses/HighSchoolPhysics/Week6.md)
