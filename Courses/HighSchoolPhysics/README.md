@@ -24,6 +24,7 @@ As I just mentioned, I don't know much about physics or any science other than c
 * After i've completed a [Khan Academy](https://www.khanacademy.org/science/physics) section, take a quiz using [varsitytutors.com](https://www.varsitytutors.com/high_school_physics-practice-tests).
 * ~~After each week, quiz myself using my own 'question book method' material.~~
 * At the end of the course, take a final exam using [varsitytutors.com](https://www.varsitytutors.com/high_school_physics-practice-tests).
+* Use the [maintenance method](#maintenance-method) to avoid forgetting the material.
 
 ## Learning Resources
 
@@ -61,11 +62,16 @@ This will be re-evaluated as I learn how effective it is.
 
 ## Distributed Practice
 
-The pupose of this is to continually practice previously covered sections.
+The purpose of this is to continually practice previously covered sections.
 
 Before I start a new topic, I will create a card for it in the [projects](https://github.com/meech-ward/Learning-Projects/projects/1) section of this repo. When I have learned that topic, I will move it into 'Learned Topics' swim lane. Before starting for the day, I can look at this swim lane and practice a question from the subject at the top. If I answer a question correctly, I move it to the bottom of the lane, If I answer incorrectly, I move it to the top of the lane. Every time I answer correctly I will also check off a checkmark on the card and once I’ve checked the card 5 times, I’ll move it into another swim lane ‘mastered’ where it will no longer be reviewed.
 
 
+## Maintenance Method
+
+The purpose of this is to avoid forgetting the information that i've learned.
+
+Once a topic card has been 'Mastered' it will get moved into the mastered lane. At the end of each week, I will take the top card from this lane and answer a practice question about the topic. If I answer correctly, I will move the card to the bottom of the list. If I answer incorrectly, well I haven't decided what will happend yet, maybe I'll still move it to the bottom of the list. I will keep this up for 1 year after I complete the course. This should be very easy as it will only take about 10-30 minutes each week and will reduce the risk of forgetting the information I've learned.
 
 ## Sections
 
@@ -98,3 +104,4 @@ Before I start a new topic, I will create a card for it in the [projects](https:
 * [Week7](https://github.com/meech-ward/Learning-Projects/blob/master/Courses/HighSchoolPhysics/Week7.md)
 * [Week8 & 9 & Review](https://github.com/meech-ward/Learning-Projects/blob/master/Courses/HighSchoolPhysics/Week8-9-Review.md)
 * [Week10](https://github.com/meech-ward/Learning-Projects/blob/master/Courses/HighSchoolPhysics/Week10.md)
+* [Week11](https://github.com/meech-ward/Learning-Projects/blob/master/Courses/HighSchoolPhysics/Week11.md)
